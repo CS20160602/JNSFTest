@@ -52,6 +52,8 @@ class LOListViewController: BaseViewController {
         self.createTableView()
         self.createCollectView()
         
+        print("fff")
+        
     }
     
     func getGoodsListData() -> Void {
