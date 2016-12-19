@@ -52,7 +52,6 @@ class LOListViewController: BaseViewController {
         self.createTableView()
         self.createCollectView()
         
-        print("fff")
         
     }
     
