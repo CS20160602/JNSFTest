@@ -42,7 +42,9 @@ class LOListViewController: BaseViewController {
         self.initTitle(title: "商品列表")
 
         print ("ggggg")
-        
+        print ("ggggg")
+        print ("ggggg")
+
         
         //获取商品数据源
         self.getGoodsListData()
