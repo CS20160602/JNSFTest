@@ -44,6 +44,10 @@ class LOListViewController: BaseViewController {
         print ("ggggg")
         print ("ggggg")
         print ("ggggg")
+        print ("ggggg")
+        print ("ggggg")
+        print ("ggggg")
+        print ("ggggg")
 
         
         //获取商品数据源
