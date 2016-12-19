@@ -41,6 +41,7 @@ class LOListViewController: BaseViewController {
 //        self.initBackButton(imgName: moreListIcon as NSString)
         self.initTitle(title: "商品列表")
 
+        print ("ggggg")
         
         
         //获取商品数据源
